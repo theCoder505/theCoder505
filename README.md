@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning for being a great web developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://ahkemad.cf || https://ahkemad.com
+- 📫 How to reach me http://ahkemad.xyz || https://ahkemad.xyz
 
 <!---
 theCoder505/theCoder505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
