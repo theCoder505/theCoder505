@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm @theCoder505
+# 👋 Hey there, I'm @Emad Khan
 
 ### Full-Stack Developer | Founder @ EKSofts | Building Digital Solutions Since 2020
 
